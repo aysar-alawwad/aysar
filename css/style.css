@@ -7,11 +7,12 @@
     font-weight: normal;
     font-style: normal;
   }
+
 *{
     
     margin:0px !important;
     padding: 0px  !important;
-    /* background-color: #200202 !important; */
+    background-color: #200202 !important;
 }  
 body{
     font-family: "Orbitron", serif;
